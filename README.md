@@ -1,4 +1,4 @@
-# Advent-Of-Code
+# Advent Of Code
 
 This repository is dedicated to solving problems from Advent of Code
 
