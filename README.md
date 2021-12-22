@@ -21,3 +21,7 @@ This repository is dedicated to solving problems from [Advent of Code 2021](http
 * Day 6:
   * [Problem 1](Day6/adc-problem1.py)
   * [Problem 2](Day6/adc-problem2.py)
+
+* Day 8:
+  * [Problem 1](Day8/adc-problem1.py)
+  * [Problem 2](Day8/adc-problem2.py)
